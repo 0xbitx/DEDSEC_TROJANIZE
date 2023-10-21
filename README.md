@@ -1,12 +1,12 @@
 
 <p align="center">
-<img src="https://media3.giphy.com/media/2kXM55r2Ki78LsavEQ/giphy.gif?cid=ecf05e47sa6taafie5ln5fpq9upbt26tjiikgtr6inq0us36&ep=v1_gifs_related&rid=giphy.gif&ct=s", width="400", height="400">
+<img src="https://i.pinimg.com/originals/86/53/c0/8653c037712f7f7edc778dbc14ed7f41.png", width="400", height="400">
 </p>
 <h1 align="center"> DEDSEC_TROJANIZE</h1>
 <h4 align="center">DEDSEC_TROJANIZE is a linux based tool that can add malicious code to a legitimate python code file </h4>
 
 ## DESCRIPTION
-DEDSEC_TROJANIZE is capable of injecting a backdoor into legitimate python code. When the user uses this trojanized code, their information, such as browser-saved passwords, system passwords, database passwords, Wi-Fi passwords, IP address, username, etc., will be obtained and automatically sent to your server.
+DEDSEC_TROJANIZE is capable of injecting a malicious code into legitimate python code. When the user uses this trojanized code, their information, such as browser-saved passwords, system passwords, database passwords, Wi-Fi passwords, IP address, username, etc., will be obtained and automatically sent to your server.
 
 
 <h3 align="center"> SUPPORTED SOFTWARE</h3>
