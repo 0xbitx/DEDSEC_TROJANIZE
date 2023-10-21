@@ -3,16 +3,28 @@
 <img src="https://media3.giphy.com/media/2kXM55r2Ki78LsavEQ/giphy.gif?cid=ecf05e47sa6taafie5ln5fpq9upbt26tjiikgtr6inq0us36&ep=v1_gifs_related&rid=giphy.gif&ct=s", width="400", height="400">
 </p>
 <h1 align="center"> DEDSEC_TROJANIZE</h1>
-<h4 align="center">DEDSEC_TROJANIZE is a tool that can add malicious code to a legitimate python code file </h4>
+<h4 align="center">DEDSEC_TROJANIZE is a linux based tool that can add malicious code to a legitimate python code file </h4>
 
-## Key Features
+## DESCRIPTION
+DEDSEC_TROJANIZE is capable of injecting a backdoor into legitimate python code. When the user uses this trojanized code, their information, such as browser-saved passwords, system passwords, database passwords, Wi-Fi passwords, IP address, username, etc., will be obtained and automatically sent to your server.
 
-| Feature | Description                |
-| :-------- | ------------------------- |
-| 1. |  .|
-| 2.  | |
-| 3. |  |
-| 4.  | |
+
+<h3 align="center"> SUPPORTED SOFTWARE</h3>
+<div align="center">
+   
+  | Software type | software  |
+  | -- | -- |
+  | Ip  | Public ip |
+  | Username    | Desktop username  |
+  | Browsers | Brave<br> Chromium<br> Dissenter-Browser<br> Firefox<br> Google Chrome<br> IceCat<br> Microsoft Edge<br> Opera<br> SlimJet<br> Vivaldi |
+  | Chats | Pidgin<br> Psi<br> Skype| Pidgin<br> Psi | 
+  | Databases | DBVisualizer<br> Squirrel<br> SQLdeveloper  | 
+  | Mails | Clawsmail<br> Thunderbird |
+  | Dumps from memory | System Password |  |
+  | Sysadmin |  Apache Directory Studio<br> AWS<br>  Docker<br> Environnement variable<br> FileZilla<br> gFTP<br> History files<br> Shares <br> SSH private keys <br> KeePass Configuration Files (KeePassX, KeePass2) <br> Grub <br> Rclone |
+  | Wifi | Network Manager<br> WPA Supplicant | 
+  | Internal mechanism passwords storage | GNOME Keyring<br> Kwallet<br> Hashdump | 
+</div>
 
 
 ## INSTALLATION 
