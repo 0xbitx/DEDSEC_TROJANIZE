@@ -30,8 +30,8 @@ DEDSEC_TROJANIZE is capable of injecting a malicious code into legitimate python
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_TROJANIZE.git
     * cd DEDSEC_TROJANIZE
-    * sudo pip3 install pystyle pycryptodome tabulate
-    * sudo python3 dedsec_trojanize.py
+    * sudo pip3 install pystyle tabulate
+    * sudo ./dedsec_trojanize
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
