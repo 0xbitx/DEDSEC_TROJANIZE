@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/86/53/c0/8653c037712f7f7edc778dbc14ed7f41.png", width="400", height="400">
+<img src="https://cdn-icons-png.flaticon.com/512/4736/4736735.png", width="300", height="300">
 </p>
 <h1 align="center"> DEDSEC_TROJANIZE</h1>
 <h4 align="center">DEDSEC_TROJANIZE is a linux based tool that can add malicious code to a legitimate python code file </h4>
