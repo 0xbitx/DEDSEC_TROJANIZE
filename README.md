@@ -26,11 +26,11 @@ DEDSEC_TROJANIZE is capable of injecting a malicious code into legitimate python
   | Internal mechanism passwords storage | GNOME Keyring<br> Kwallet<br> Hashdump | 
 </div>
 
-
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_TROJANIZE.git
     * cd DEDSEC_TROJANIZE
-    * sudo pip3 install pystyle tabulate
+    * sudo pip3 install pystyle
+    * chmod +x dedsec_trojanize
     * sudo ./dedsec_trojanize
 
 ### TESTED ON FOLLOWING
